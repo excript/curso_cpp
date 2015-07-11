@@ -1,14 +1,13 @@
-/*
-* =================================
-*           eXcript.com
-*           fb.com/eXcript
-* =================================
-* */
 #include <iostream>
+
+/*====================================
+*           eXcript.com
+*          fb.com/eXcript
+* ====================================*/
 
 using namespace std;
 
-//Aula - IndentaÃ§Ã£o, espaço em branco e Ponto e vírgula
+//Aula - Indentação, espaço em branco e ponto e vírgula
 
 int main() {
   cout << "Ola mundo!";

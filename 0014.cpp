@@ -1,13 +1,11 @@
-/*
-* =================================
-*           eXcript.com
-*           fb.com/eXcript
-* =================================
-* */
-
 #include <iostream>
 #include <stdlib.h>
 #include <iomanip>
+
+/*====================================
+*           eXcript.com
+*          fb.com/eXcript
+* ====================================*/
 
 using namespace std;
 

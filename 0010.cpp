@@ -1,9 +1,9 @@
+#include <iostream>
+
 /*====================================
 *           eXcript.com
 *          fb.com/eXcript
 * ====================================*/
-
-#include <iostream>
 
 using namespace std;
 

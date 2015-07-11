@@ -1,11 +1,12 @@
 #include <iostream>
 #include <stdlib.h>
 
-using namespace std;
+/*====================================
+*           eXcript.com
+*          fb.com/eXcript
+* ====================================*/
 
-//	==========                 ==========
-//	========== www.eXcript.com ==========
-//	==========                 ==========
+using namespace std;
 
 int main() {
 
